@@ -36,6 +36,16 @@ jupyter notebook PRCP-1017_AutoPricePred_Internship_Project.ipynb
 
 Then run all cells from top to bottom.
 
+## Explanation Guide (important for viva)
+
+Open **`Project_Explanation_Guide.docx`** if you need a simple walkthrough of the full project:
+- what the project is
+- step-by-step flow
+- EDA insights
+- model comparison results
+- challenges faced
+- expected viva Q&A
+
 ## Project Notebook
 
 `PRCP-1017_AutoPricePred_Internship_Project.ipynb` contains:
